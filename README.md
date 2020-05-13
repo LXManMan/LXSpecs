@@ -1,0 +1,2 @@
+# LXSpecs
+specs of LXManMan
